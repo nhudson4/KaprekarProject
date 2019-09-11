@@ -2,6 +2,8 @@
 #include<stdio.h>
 
 #include "kaprekarUtils.h"
+#include "kaprekarUtils.c"
+
 
 int main(int argc, char **argv) {
 

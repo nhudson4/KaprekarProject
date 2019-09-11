@@ -6,6 +6,7 @@
 #include<cmocka.h>
 
 #include "kaprekarUtils.h"
+#include "kaprekarUtils.c"
 
 /**
  * A convenience function to print test values in a
